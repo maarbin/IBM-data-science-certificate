@@ -1,2 +1,11 @@
 # IBM-data-science-certificate
-Projects for IBM data science certificate - Coursera
+Projects and Jupyter notebooks for IBM data science certificate - Coursera
+
+**Tech stack**
+> SQL
+> Python
+ - Pandas
+ - Numpy
+ - Matplotlib
+ - Seaborn
+ - scikit-learn
